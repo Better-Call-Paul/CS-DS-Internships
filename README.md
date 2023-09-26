@@ -11,7 +11,7 @@ Collection of internships for CS and DS for summer 2024
 | Hudson River Trading  | Menlo Park, CA | [Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271837&req_id=447) | Sep 25, 2023 |
 | SAP | Palo Alto, CA | [Apply Here](https://jobs.sap.com/job/Palo-Alto-SAP-Labs-US-iXp-Intern-Software-Developer-CA-94304/985321901) | Sep 26, 2023   
 | Cruise | San Francisco, CA | [Apply Here](https://boards.greenhouse.io/cruiseuniversity/jobs/5364458?gh_src=1xdap08r1) | Sep 20, 2023
-| Citadel | NY & CHI | [Apply Here](https://www.citadel.com/careers/details/software-engineer-intern-us/) || August 20, 2023
+| Citadel | NY & CHI | [Apply Here](https://www.citadel.com/careers/details/software-engineer-intern-us/) | August 20, 2023
 
 ### Data Science Internships 📈
 
