@@ -8,7 +8,8 @@ Collection of internships for CS and DS for summer 2024
 | Company   | Location  | Application Link | Date Posted |
 | --------- | --------- | ---------------- | ----------- |
 | DropBox    | Mountain View, CA | [Apply Here](https://jobs.dropbox.com/listing/5265677) | Sep 26, 2023 |
-| Facebook  | Menlo Park, CA    | [Apply Here](#) | Sep 25, 2023 |
+| Hudson River Trading  | Menlo Park, CA    | [Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271837&req_id=447![image](https://github.com/Better-Call-Paul/CS-DS-Internships/assets/57119156/6aea6190-c013-4d51-b661-135eb6126670)
+) | Sep 25, 2023 |
 
 ### Data Science Internships 📈
 
