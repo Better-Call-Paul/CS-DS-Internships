@@ -16,7 +16,7 @@ Collection of internships for CS and DS for summer 2024
 | **[Google](https://about.google/)** | STEP Intern - First Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/97288107323204294-step-intern-firstyear-student-summer-2024) | October 4th, 2023 |
 | **[Google](https://about.google/)** | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/112724967109337798-software-engineering-intern-bs-summer-2024) | October 4th, 2023 |
 | **[Figma](https://www.figma.com/design/)** | Software Engineer Intern | SF, New York | [Apply](https://boards.greenhouse.io/figma/jobs/4942607004) | August 22nd, 2023 |
-| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Amazon](https://www.aboutamazon.com/)** | Software Development Engineer Internship | USA | [Apply](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | September 7th, 2023 |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
