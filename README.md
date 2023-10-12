@@ -32,7 +32,7 @@ Collection of internships for CS and DS for summer 2024
 | **[Goldman Sachs](https://www.goldmansachs.com/index.html)** | Summer Analyst | USA | [Apply](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | September, 2023 |
 | **[Rippling](https://www.rippling.com/)** | Software Engineer Intern | SF, NY | [Apply](https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379) | September, 2023 |
 | **[Blackstone](https://www.blackstone.com/)** | Software Engineer Summer Analyst | NY, Miami | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2024-Blackstone-Software-Engineer-Summer-Analyst_29343) | September, 2023 |
-| **[Blackrock](https://www.blackrock.com/us/individual)** | Summer Internship | USA | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-864608/xf-271a73dfe72e/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB%22) | September, 2023|
+| **[Blackrock](https://www.blackrock.com/us/)** | Summer Internship | USA | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-864608/xf-271a73dfe72e/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB%22) | September, 2023|
 | **[Anduril](https://www.anduril.com/careers/)** | Software Engineer Internship | CA | [Apply](https://jobs.lever.co/anduril/678e291a-29a7-4823-9bef-5a565660d67e) | September, 2023 |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
