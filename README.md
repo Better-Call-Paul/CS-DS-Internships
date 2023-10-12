@@ -14,12 +14,12 @@ Collection of internships for CS and DS for summer 2024
 | **[Dropbox](https://www.dropbox.com/)** | Data Science Intern | Remote | [Apply](https://jobs.dropbox.com/listing/5396438) | August 29th, 2023 |
 | **[Google](https://about.google/)** | STEP Intern - Second Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/124653568759079622-step-intern-secondyear-student-summer-2024) | October 4th, 2023 |
 | **[Google](https://about.google/)** | STEP Intern - First Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/97288107323204294-step-intern-firstyear-student-summer-2024) | October 4th, 2023 |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | (Apply)[URL] | Date Posted |
+| **[Google](https://about.google/)** | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/112724967109337798-software-engineering-intern-bs-summer-2024) | October 4th, 2023 |
+| **[Figma](https://www.figma.com/design/)** | Software Engineer Intern | SF, New York | [Apply](https://boards.greenhouse.io/figma/jobs/4942607004) | August 22nd, 2023 |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 
 
 ### Data Science Internships 📈
