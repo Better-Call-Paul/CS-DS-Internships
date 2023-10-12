@@ -35,8 +35,8 @@ Collection of internships for CS and DS for summer 2024
 | **[Blackrock](https://www.blackrock.com/us/)** | Summer Internship | USA | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-864608/xf-271a73dfe72e/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB%22) | September, 2023|
 | **[Anduril](https://www.anduril.com/careers/)** | Software Engineer Internship | CA | [Apply](https://jobs.lever.co/anduril/678e291a-29a7-4823-9bef-5a565660d67e) | September, 2023 |
 | **[Bose](https://simplify.jobs/c/bose)** | IOS/Android Application Engineer Intern | Framingham, MA | [Apply](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/iOS-or-Android-Application-Engineer-Intern_R25786) | September 19th, 2023 |
-| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
-| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Activision-Blizzard](https://simplify.jobs/c/Activision-Blizzard)** | Computer Graphics | CA, OR | [Apply](https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2024-US-Summer-Internship---Computer-Graphics_R021264-1?utm_source=Simplify&ref=Simplify") | September 15th, 2023 |
+| **[IBM](https://www.ibm.com/us-en?lnk=m&_gl=1*953yp2*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NzE0MDExMC4zLjAuMTY5NzE0MDExMC4wLjAuMA..)** | Backend Developer | USA | [Apply](https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA&_gl=1*194njky*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NTMxMDEzOS4xLjEuMTY5NTMxMDIxNy4wLjAuMA..) | September, 2023 |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
