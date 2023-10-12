@@ -4,7 +4,7 @@ Collection of internships for CS and DS for summer 2024
 
 ## Open Positions
 
-### Software Engineering Internships (SWE) 👨‍💻
+### Software Engineering Internships (Summer) 👨‍💻
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
@@ -17,10 +17,46 @@ Collection of internships for CS and DS for summer 2024
 | **[Google](https://about.google/)** | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/112724967109337798-software-engineering-intern-bs-summer-2024) | October 4th, 2023 |
 | **[Figma](https://www.figma.com/design/)** | Software Engineer Intern | SF, New York | [Apply](https://boards.greenhouse.io/figma/jobs/4942607004) | August 22nd, 2023 |
 | **[Amazon](https://www.aboutamazon.com/)** | Software Development Engineer Internship | USA | [Apply](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | September 7th, 2023 |
+| **[Paramount](https://www.paramount.com/)** | Software Engineering Intern | New York, LA, Remote | [Apply](https://careers.paramount.com/Paramount/job/Burbank-Software-Engineering-Intern-(Summer-2024-NYC%2C-LA-or-Remote)-CA-91505/1082274800/) | October 12th, 2023 |
+| **[Netflix](https://about.netflix.com/en)** | Software Engineer Intern | Los Gatos (CA) | [Apply](https://jobs.netflix.com/jobs/298350570) | October 10th, 2023 |
+| **[Optiver](https://optiver.com/)** | Software Engineer Intern | Chicago | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6837103002/) | September 15th, 2023 |
+| **[Company Name]()** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 | **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
-
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
+| **[Company Name](Company URL)** | Role | Location | [Apply](URL) | Date Posted |
 
 ### Data Science Internships 📈
 
