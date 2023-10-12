@@ -27,7 +27,7 @@ Collection of internships for CS and DS for summer 2024
 | **[Stripe](https://stripe.com/)** | Software Engineering Intern | SF | [Apply](https://stripe.com/jobs/listing/software-engineering-intern/5297261) | August, 2023 |
 | **[Two Sigma](https://www.twosigma.com/)** | Software Engineering Internship | NY | [Apply](https://careers.twosigma.com/careers/JobDetail?jobId=11991&source=LinkedIn) | August, 2023|
 | **[Point 72](https://point72.com/)** | Quantitative Software Developer Intern | NY | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&retURL=/CSCareerSearch) | August, 2023 |
-| **[Rivian](Company URL)** | Embedded Sotware Intern | CA | [Apply](https://careers.rivian.com/careers-home/jobs/12817?lang=en-us) | September, 2023|
+| **[Rivian](https://rivian.com/)** | Embedded Sotware Intern | CA | [Apply](https://careers.rivian.com/careers-home/jobs/12817?lang=en-us) | September, 2023|
 | **[Hudson River Trading](https://www.hudsonrivertrading.com/)** | Software Engineering Internship | NY | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271837&req_id=447) | August, 2023 |
 | **[Goldman Sachs](https://www.goldmansachs.com/index.html)** | Summer Analyst | USA | [Apply](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | September, 2023 |
 | **[Rippling](https://www.rippling.com/)** | Software Engineer Intern | SF, NY | [Apply](https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379) | September, 2023 |
