@@ -8,13 +8,15 @@ Collection of internships for CS and DS for summer 2024
 <table style="width:100%">
     <tr>
         <th>Company</th>
+        <th>Position</th>
         <th>Location</th>
         <th>Application Link</th>
         <th>Date Posted</th>
     </tr>
     <tr>
         <td>DropBox</td>
-        <td>Mountain View, CA</td>
+        <<th>Software Engineering Intern</th>
+        <td>Remote</td>
         <td><a href="https://jobs.dropbox.com/listing/5265677">Apply Here</a></td>
         <td>Sep 26, 2023</td>
     </tr>
@@ -49,6 +51,7 @@ Collection of internships for CS and DS for summer 2024
 <table style="width:100%">
     <tr>
         <th>Company</th>
+        <th>Position</th>
         <th>Location</th>
         <th>Application Link</th>
         <th>Date Posted</th>
@@ -65,6 +68,8 @@ Collection of internships for CS and DS for summer 2024
         <td><a href="#">Apply Here</a></td>
         <td>Sep 24, 2023</td>
     </tr>
+    
+    
 </table>
 
 ### Research Internships 📚
