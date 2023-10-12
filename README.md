@@ -21,7 +21,7 @@ Collection of internships for CS and DS for summer 2024
 | **[Netflix](https://about.netflix.com/en)** | Software Engineer Intern | Los Gatos (CA) | [Apply](https://jobs.netflix.com/jobs/298350570) | October 10th, 2023 |
 | **[Optiver](https://optiver.com/)** | Software Engineer Intern | Chicago | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6837103002/) | September 15th, 2023 |
 | **[Atlassian](https://www.atlassian.com/)** | Software Engineer Intern | Remote | [Apply](https://www.atlassian.com/company/careers/details/10613) | October 3rd, 2023 |
-| **[D.E. Shaw](https://www.deshaw.com/)** | Software Developer Intern | | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | July, 2023 |
+| **[D.E. Shaw](https://www.deshaw.com/)** | Software Developer Intern | NY | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | July, 2023 |
 | **[Jane Street](https://www.janestreet.com/)** | Software Engineer Internship | New York | [Apply](https://www.janestreet.com/join-jane-street/position/6834728002/) | July, 2023|
 | **[Apple](https://www.apple.com/)** | Software Engineering Internship | USA | [Apply](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships) | September, 2023 |
 | **[Stripe](https://stripe.com/)** | Software Engineering Intern | SF | [Apply](https://stripe.com/jobs/listing/software-engineering-intern/5297261) | August, 2023 |
