@@ -39,6 +39,12 @@ Collection of internships for CS and DS for summer 2024
 | **[IBM](https://www.ibm.com/us-en?lnk=m&_gl=1*953yp2*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NzE0MDExMC4zLjAuMTY5NzE0MDExMC4wLjAuMA..)** | Backend Developer | USA | [Apply](https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA&_gl=1*194njky*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NTMxMDEzOS4xLjEuMTY5NTMxMDIxNy4wLjAuMA..) | September, 2023 |
 | **[Samsara](https://www.samsara.com/)** | Software Engineering | Hybrid | [Apply](https://app.ripplematch.com/v2/public/job/f66c09ea/details?from_page=tracking_link&tl=e976fe10) | September, 2023 |
 | **[Walmart](https://corporate.walmart.com/about)** | Software Engineer | USA | [Apply](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | September 13th, 2023 |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
 ### Data Science Internships 📈
 
 <table style="width:100%">
