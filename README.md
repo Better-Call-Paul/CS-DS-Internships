@@ -13,7 +13,7 @@ Collection of internships for CS and DS for summer 2024
 | **[Dropbox](https://www.dropbox.com/)** | Software Engineering Intern | Remote | [Apply](https://jobs.dropbox.com/listing/5265677) | August 29th, 2023 |
 | **[Dropbox](https://www.dropbox.com/)** | Data Science Intern | Remote | [Apply](https://jobs.dropbox.com/listing/5396438) | August 29th, 2023 |
 | **[Google](https://about.google/)** | STEP Intern - Second Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/124653568759079622-step-intern-secondyear-student-summer-2024) | October 4th, 2023 |
-| **[Google](https://about.google/)** | STEP Intern - First Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/97288107323204294-step-intern-firstyear-student-summer-2024) | October 4th, 2023 |
+| ↳ | STEP Intern - First Year | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/97288107323204294-step-intern-firstyear-student-summer-2024) | October 4th, 2023 |
 | **[Google](https://about.google/)** | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/112724967109337798-software-engineering-intern-bs-summer-2024) | October 4th, 2023 |
 | **[Figma](https://www.figma.com/design/)** | Software Engineer Intern | SF, New York | [Apply](https://boards.greenhouse.io/figma/jobs/4942607004) | August 22nd, 2023 |
 | **[Amazon](https://www.aboutamazon.com/)** | Software Development Engineer Internship | USA | [Apply](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | September 7th, 2023 |
@@ -39,6 +39,25 @@ Collection of internships for CS and DS for summer 2024
 | **[IBM](https://www.ibm.com/us-en?lnk=m&_gl=1*953yp2*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NzE0MDExMC4zLjAuMTY5NzE0MDExMC4wLjAuMA..)** | Backend Developer | USA | [Apply](https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA&_gl=1*194njky*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NTMxMDEzOS4xLjEuMTY5NTMxMDIxNy4wLjAuMA..) | September, 2023 |
 | **[Samsara](https://www.samsara.com/)** | Software Engineering | Hybrid | [Apply](https://app.ripplematch.com/v2/public/job/f66c09ea/details?from_page=tracking_link&tl=e976fe10) | September, 2023 |
 | **[Walmart](https://corporate.walmart.com/about)** | Software Engineer | USA | [Apply](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | September 13th, 2023 |
+| **[Two Sigma](https://www.twosigma.com/)** | Software Engineer | NY| [Apply](https://careers.twosigma.com/careers/JobDetail?jobId=11991&source=LinkedIn) | August, 2023 | 
+| **[Delloite]()** | | | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineer-Internship-Innovation-Technology/158948) | September, 2023 | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+| **[]()** | | | [Apply]() | | 
+
+
+
+
+
+
+
 ### Data Science Internships 📈
 
 <table style="width:100%">
