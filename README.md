@@ -39,59 +39,45 @@ Collection of internships for CS and DS for summer 2024
 | **[IBM](https://www.ibm.com/us-en?lnk=m&_gl=1*953yp2*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NzE0MDExMC4zLjAuMTY5NzE0MDExMC4wLjAuMA..)** | Backend Developer | USA | [Apply](https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA&_gl=1*194njky*_ga*MTg4MDk2Njg1OS4xNjk1MzEwMTM5*_ga_FYECCCS21D*MTY5NTMxMDEzOS4xLjEuMTY5NTMxMDIxNy4wLjAuMA..) | September, 2023 |
 | **[Samsara](https://www.samsara.com/)** | Software Engineering | Hybrid | [Apply](https://app.ripplematch.com/v2/public/job/f66c09ea/details?from_page=tracking_link&tl=e976fe10) | September, 2023 |
 | **[Walmart](https://corporate.walmart.com/about)** | Software Engineer | USA | [Apply](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | September 13th, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Scientific Software Developer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=602&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Software Developer for Drug Discovery | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=605&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Systems Administrator in Pittsburgh | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=606&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Systems Software Developer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=608&source=DESRES+Website) | August, 2023 |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
+
+
 ### Data Science Internships 📈
 
-<table style="width:100%">
-    <tr>
-        <th>Company</th>
-        <th>Position</th>
-        <th>Location</th>
-        <th>Application Link</th>
-        <th>Date Posted</th>
-    </tr>
-    <tr>
-        <td>DropBox</td>
-        <td>
-        <td>Redmond, WA</td>
-        <td><a href="#">Apply Here</a></td>
-        <td>Sep 26, 2023</td>
-    </tr>
-    <tr>
-        <td>Apple</td>
-        <td>Cupertino, CA</td>
-        <td><a href="#">Apply Here</a></td>
-        <td>Sep 24, 2023</td>
-    </tr>
-    
-    
-</table>
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
+| **[]()** |  |  | [Apply]() |  |
 
 ### Research Internships 📚
 
-<table style="width:100%">
-    <tr>
-        <th>Company</th>
-        <th>Location</th>
-        <th>Application Link</th>
-        <th>Date Posted</th>
-    </tr>
-    <tr>
-        <td>IBM</td>
-        <td>Yorktown Heights, NY</td>
-        <td><a href="#">Apply Here</a></td>
-        <td>Sep 27, 2023</td>
-    </tr>
-    <tr>
-        <td>Adobe</td>
-        <td>San Jose, CA</td>
-        <td><a href="#">Apply Here</a></td>
-        <td>Sep 23, 2023</td>
-    </tr>
-</table>
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | ASIC Architect and Hardware Engineer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=614&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Computational Biophysicist | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=567&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Computational Chemistry/Physics Methods Developer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=568&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Computational Drug Discovery Scientist | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=570&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Data Engineer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=882&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Drug Discovery Biologist | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=865&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Drug Discovery Fellow | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=569&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Drug Discovery Software Associate and Engineer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=604&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Force Field Developer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=661&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | In-House Counsel | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=863&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Machine Learning Researcher and Engineer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=597&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Medicinal Chemist | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=574&source=DESRES+Website) | August, 2023 |
+| **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Scientific Associate | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=660&source=DESRES+Website) | August, 2023 |
+
+
+
 
