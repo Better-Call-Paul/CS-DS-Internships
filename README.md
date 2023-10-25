@@ -43,7 +43,7 @@ Collection of internships for CS and DS for summer 2024
 | **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Software Developer for Drug Discovery | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=605&source=DESRES+Website) | August, 2023 |
 | **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Systems Administrator in Pittsburgh | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=606&source=DESRES+Website) | August, 2023 |
 | **[D.E.Shaw Research](https://www.deshawresearch.com/current-opportunities.html)** | Systems Software Developer | Hybrid NY | [Apply](https://apply.deshawresearch.com/careers/Register?pipelineId=608&source=DESRES+Website) | August, 2023 |
-| **[]()** |  |  | [Apply]() |  |
+| **[Ramp](https://ramp.com/)** | Frontend Software Engineer | NY | [Apply](https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5/application?src=Simplify) | September, 2023 |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
