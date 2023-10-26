@@ -48,7 +48,7 @@ Collection of internships for CS and DS for summer 2024
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
 | **[]()** |  |  | [Apply]() |  |
-| **[]()** |  |  | [Apply]() |  |
+
 
 
 ### Data Science Internships 📈
